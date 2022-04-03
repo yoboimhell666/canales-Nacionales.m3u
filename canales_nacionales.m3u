@@ -8,6 +8,10 @@ https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=Gye33s
 
 https://mdstrm.com/live-stream-playlist/5f51a916c21eec083ab337a8.m3u8?uid=Gye33sbAmJ5sVokdPupdDPQP42GkhBU7&sid=gCZ2sDBnHL5SZTe7mUD0FjOncPVebedu&pid=LhXBsKFNR6vl9y88Wt8D76Sc3v0HWVJX&an=13cl-player&at=web-app&av=v5.2.234&ref=https%3A%2F%2Fwww.13.cl%2F&res=770x434&without_cookies=false&listenerid=&dnt=true&access_token=EHr7hNBEGv3dZKj1cyPmBySnSi4ZHZ3zhJRLrPzRWyKesPQwxEuDAZ5cTAxq5cc2d5a4fSIsGXM&adInsertionSessionId=5f83a35c-4810-4056-807f-5932691e5770
 
-#EXTINF: -1, chilevision
+#EXTINF: -1, Chilevision
 
 https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8?uid=Gye33sbAmJ5sVokdPupdDPQP42GkhBU7&sid=51Bm0thp51OCdJstcSLOIVn6k7IUBZ2Y&pid=9k0NbBrm5BiapaT8WyTeIoeVwcaNlhsg&an=mdstrm-player&at=web-app&av=v5.2.234&ref=&res=990x582&without_cookies=false&listenerid=&dnt=true&access_token=Yja6zathaPzCjeCqiOcZCfnVjrDXNuC11t0NKRvL91VUEbHqRqfsPMgDD4w60kWosssdFBYEnLx
+
+#EXTINF: -1, La Red
+
+https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
