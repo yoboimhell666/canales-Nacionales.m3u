@@ -19,3 +19,7 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #EXTINF: -1, TVN
 
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=fHqITkjP4Bs3dnM9xyPgBI8woMq1hid4&sid=Gt2c4tmzbIut41b184bSAH0lxmEbPurU&pid=YLZIc6cx9aSWqEKWk6lTHGwONIlREm3C&an=screen&at=web-app&av=v5.2.296&ref=https%3A%2F%2Ftoken.tvn.cl%2F&res=690x388&without_cookies=false&listenerid=&dnt=true&access_token=0Hwys35Jnzi7g16zuFQ3qigbWEAB8AWATCdGgjNdkgQ72g8jKtLRGPmYwswhchB0Tm0apotICHr&adInsertionSessionId=1758d6ab-aba3-48bb-8985-26c0bb424bfa
+
+#EXTINF: -1, valle TV
+
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
